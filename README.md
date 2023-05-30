@@ -12,9 +12,10 @@ Techniques used include:
 
 
 Dataset from : <a href=https://archive.ics.uci.edu/ml/datasets/parkinsons>Voice disorder dataset</a>
-Preprocessing the data using t-SNE analysis rather than PCA
 
-#Information about the DataSet
+### Preprocessing the data using t-SNE analysis rather than PCA
+
+# Information about the DataSet
 ### Parkinson Data and Voice Disorder
 
 This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD).  Our dataset includes voice attributes Information that can be used for detecting parkinson, these information including:
