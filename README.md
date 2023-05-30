@@ -1,6 +1,8 @@
 # MLClassificationofVoiceData
-##### Dataset is stored in parkinsons.data
-##### Trained model is stored as
+### Dataset is stored in parkinsons.data
+### Trained model is stored as rf_model_parkinsons
+### Notebook is stored as notebook.ipynb
+
 Using  Various Machine Learning Techniques to Analyze Voice Disorders for Parkinson's Disease Detection
 Techniques used include:
 - KNN classification
